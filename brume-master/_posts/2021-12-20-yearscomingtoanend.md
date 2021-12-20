@@ -1,6 +1,6 @@
 ---
 layout: post
-title:　年の瀬
+title: 年の瀬
 ---
 
 #年の瀬  
