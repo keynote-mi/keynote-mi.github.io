@@ -3,4 +3,9 @@ layout: page
 title: Links
 ---
 
-test
+リンクまとめ
+- Twitter
+- Mastodon
+- pixiv
+- Tumblr
+- SoundCloud
