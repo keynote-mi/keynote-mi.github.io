@@ -3,4 +3,6 @@ layout: page
 title: About
 ---
 
-Nothing yet :(
+このサイトはきーのの個人サイトです。
+現時点では静かめの記事を書く(？)ブログです。
+
