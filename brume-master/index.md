@@ -1,4 +1,2 @@
----
 layout: home
 title: Home
----
